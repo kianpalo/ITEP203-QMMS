@@ -1,4 +1,4 @@
-## Welcome Kan Wilfred Palo GitHub Pages
+## Kan Wilfred Palo GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kianpalo/ITEP203-QMMS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
